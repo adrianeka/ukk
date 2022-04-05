@@ -1,0 +1,95 @@
+/* navbar  */
+.brand-nav {
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #000000;
+}
+.brand-nav2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+}
+.nav-item {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+}
+.logout-btn {
+  border: 0;
+  background-color: #69ddfe;
+}
+h4.titlen {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 110px;
+  line-height: 129px;
+  /* identical to box height */
+
+  color: #0076e2;
+}
+
+.navbar-bg {
+  background-color: #69ddfe !important;
+  height: 74px;
+}
+
+/* body  */
+body.bg-home {
+  background-image: url("../media/bg.jpg");
+}
+
+body.form {
+  background-image: url(../media/Rectangle\ 14.png);
+  /* background-color: black; */
+}
+
+/* page  */
+h1.logo {
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 110px;
+  line-height: 129px;
+  /* identical to box height */
+
+  color: #0076e2;
+}
+
+h2.logo2 {
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 49px;
+
+  color: #000000;
+}
+
+.border-form {
+  border: 1px solid rgb(106, 106, 106);
+}
+/* Selamat Datang user di aplikasi Peduli Diri */
+.welcome {
+
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 61px;
+
+  color: #000000;
+}
